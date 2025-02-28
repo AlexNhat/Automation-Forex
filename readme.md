@@ -10,9 +10,7 @@
 - [Models & Workflow](#models--workflow)
 - [Results](#results)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
+  
 ## Features
 - Real-time automated trading for forex, gold, and stocks.
 - Advanced predictive modeling with a suite of ML and DL algorithms.
