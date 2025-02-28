@@ -3,7 +3,7 @@
 > *Exploring Forex Data with Ensemble Learning Models*
 *Unleashing the future of forex, gold, and stock trading with cutting-edge AI! This project harnesses Python, Deep Learning, and advanced ML techniques to automate trading across 50+ currency pairs, delivering over 100,000 data points from MetaTrader5.*
 
-![My Image](images/abc.png)
+![My Image](images/abc.jpg)
 
 ## Table of Contents
 - [Project Overview](#automation-forex-ai-powered-trading-revolution-)
