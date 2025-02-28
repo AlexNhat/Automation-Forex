@@ -10,7 +10,8 @@
 - [Models & Workflow](#models--workflow)
 - [Results](#results)
 - [Getting Started](#getting-started)
-  
+- [Installation](#installation)
+
 ## Features
 - Real-time automated trading for forex, gold, and stocks.
 - Advanced predictive modeling with a suite of ML and DL algorithms.
@@ -45,6 +46,31 @@ The models shine on test datasets, achieving:
 These results highlight the project's potential for profitable, automated trading strategies.
 
 ## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AlexNhat/Automation-Forex.git
+To set up and run the Automation-Forex project on your local machine, follow these steps:
+
+### Clone the Repository
+Download the project files to your system.
+```bash
+git clone https://github.com/AlexNhat/Automation-Forex.git
+```
+
+### Navigate to the Project Directory
+Move into the cloned folder.
+```bash
+cd Automation-Forex
+```
+
+### Install Dependencies
+Ensure you have Python installed (preferably 3.8+), then install the required libraries from the `requirements.txt` file.
+```bash
+pip install -r requirements.txt
+```
+> **Note:** The `requirements.txt` file contains all necessary packages, including libraries for machine learning (e.g., TensorFlow, Scikit-learn), data handling (e.g., Pandas, NumPy), and MetaTrader5 integration.
+
+### Configure MetaTrader5
+Set up your MT5 account and ensure the MT5 Python API is properly linked (details in the `docs/` folder if provided).
+
+### Run the System
+Execute the main script to start the automation process.
+```bash
+python automation.py
